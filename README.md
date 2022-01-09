@@ -1,37 +1,37 @@
-# tute
+# Readme Generator
 
   ## Description
-  stsf
+  this is a readme generator for github projects
 
   ## Table Of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Contribution](#Contribution)
-  * [Testing](#Tesing)
+  * [Testing](#Testing)
   * [License](#License)
   * [GitHub](#GitHub)
   
   ## Installation
-  sdfsd
+  sample test instructions
   ## Usage
-  sdfsd
+  to generate the readme file
   ## Contribution
-  sfdsdf
+  test contribution 
   ## Testing
   undefined
 
   ## GitHub 
-  sdf
-  fsdfsf
-  If you have any Questions please email me at sfd
+  sandy3392
+  test portfolio and you can reach out to sandeep vittala
+  If you have any Questions please email me at applesandy33@gmail.com
   
   ##Recorded Video
-  sdfdsf
+  NA
 
   ##License 
   ## License
   ### ©️2022
  
-  This project is licensed under MIT license. https://opensource.org/licenses/MIT
+  This project is licensed under Mozilla Public License. https://www.mozilla.org/en-US/MPL/
   
 
